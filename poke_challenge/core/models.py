@@ -1,10 +1,6 @@
 from django.db import models
 
 # Create your models here.
-EVOLUTION_TYPES = [
-    ('PE', 'Preevolution'),
-    ('EV', 'Evolution')
-]
 
 
 class Pokemon(models.Model):

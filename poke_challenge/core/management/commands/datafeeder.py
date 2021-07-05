@@ -8,7 +8,6 @@ POKEMON_URL = 'https://pokeapi.co/api/v2/pokemon/{name}/'
 
 class Command(BaseCommand):
 
-
     def add_arguments(self, parser):
         parser.add_argument('evolution_chain_id', nargs='+', type=int)
 
