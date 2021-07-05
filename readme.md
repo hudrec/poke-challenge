@@ -5,7 +5,7 @@
 
 /search/?name=[name]
 ```
-##METHODS
+## METHODS
 
 GET
  
